@@ -9,8 +9,6 @@ This project simulates a bike sharing system based on given test cases. Two vers
 ## Usage
 You can run the simulation using the following command:
 
-bash
-Copy code
 1. ./simulator [testcase] [version]
 1. testcase: The name of the test case to be simulated.
 1. version: Which version of the simulation to run (basic or advance).
