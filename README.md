@@ -6,7 +6,7 @@ This project simulates a bike sharing system based on given test cases. Two vers
 1. A compiler that supports C++ (e.g., g++).
 1. The nthu_bike.h header file.
 
-##Usage
+## Usage
 You can run the simulation using the following command:
 
 bash
