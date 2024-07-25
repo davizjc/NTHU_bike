@@ -9,11 +9,13 @@ This project simulates a bike sharing system based on given test cases. Two vers
 ## Usage
 You can run the simulation using the following command:
 
-1. ./simulator [testcase] [version]
+1. 	g++ -g -std=c++11 -o ./bin/main ./src/main.cpp
+1. ./bin/main  [testcase] [version]
+   
 1. testcase: The name of the test case to be simulated.
-1. version: Which version of the simulation to run (basic or advance).
+1. version: Which version of the simulation to run (basic or advanced).
 For example:
-./simulator case1 basic
+./bin/main  case1 basic
 
 ## Verification
 After running the simulation, you can verify the output using the provided verifier:
